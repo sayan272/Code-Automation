@@ -1,1 +1,2 @@
-# Code-Automation
+# Code-Automation 
+It is a code automation program which reduces the tedious job of checking many similar programs for compilation error and output matching. It does so by automating the process of checking the programs one by one. It takes input in the form of input test cases and original correct output file and an excel sheet which contains the credentials of the students. It checks each and every code one by one automatically and then prints the evaluation in the input excel file and shows it to the user.
