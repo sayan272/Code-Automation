@@ -1,7 +1,6 @@
 import subprocess
 import os
 import filecmp
-import Tkinter as tk
 import openpyxl as xl
 from openpyxl.styles import Alignment,Font
 
